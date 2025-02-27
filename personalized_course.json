@@ -1,0 +1,46 @@
+{
+    "title": "Personalized Ethical Hacking Path for Junior Penetration Tester with AI security focus",
+    "total_duration_months": 0.85,
+    "stages": [
+        {
+            "name": "Introduction to Cybersecurity",
+            "adjusted_duration": 0.85,
+            "focus_areas": [
+                "network security",
+                "basic concepts"
+            ],
+            "recommended_resources": [
+                {
+                    "name": "Intro to Cybersecurity",
+                    "platform": "Coursera",
+                    "type": "course"
+                },
+                {
+                    "name": "Cybersecurity Fundamentals",
+                    "platform": "Udemy",
+                    "type": "course",
+                    "cost": "low"
+                }
+            ]
+        }
+    ],
+    "recommended_certifications": [
+        {
+            "name": "CompTIA Security+",
+            "level": "entry",
+            "recognition": "high"
+        }
+    ],
+    "recommended_platforms": [
+        {
+            "name": "Hack The Box",
+            "type": "platform",
+            "free_tier": true
+        },
+        {
+            "name": "TryHackMe",
+            "type": "platform",
+            "free_tier": true
+        }
+    ]
+}

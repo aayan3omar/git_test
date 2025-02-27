@@ -1,0 +1,9 @@
+{
+    "experience_level": "beginner",
+    "available_hours_per_week": 15,
+    "budget_constraints": "low",
+    "focus_areas": ["AI security", "ethical hacking", "Linux"],
+    "preferred_platforms": ["Udemy", "TryHackMe", "Cybrary"],
+    "goal": "Junior Penetration Tester with AI security focus",
+    "timeline_constraint": 10
+}
